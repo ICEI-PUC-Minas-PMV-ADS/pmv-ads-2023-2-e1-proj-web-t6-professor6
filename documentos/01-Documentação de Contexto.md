@@ -33,3 +33,7 @@ Os links abaixo podem ajudar a equipe a conhecer um pouco mais sobre o público-
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
 > - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
 
+## Aplicações relacionadas
+
+Liste aplicações já existentes que tenham funcionalidades semelhantes às que a sua aplicação oferecerá.
+
